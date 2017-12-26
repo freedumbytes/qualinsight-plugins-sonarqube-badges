@@ -10,7 +10,7 @@
   </mask>
   <g mask="url(#round)">
     <rect fill="#444" height="20" width="81" />
-    <rect fill="#999" height="20" width="32" x="81" />
+    <rect fill="#4b9fd5" height="20" width="32" x="81" />
     <rect fill="url(#smooth)" height="20" width="113" />
   </g>
   <g fill="#fff" font-family="DejaVu Sans,Verdana,Sans PT,Lucida Grande,Tahoma,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">
